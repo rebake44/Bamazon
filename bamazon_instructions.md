@@ -23,7 +23,7 @@ If the selected quantity is currently in stock, the user's order is fulfilled, d
 
 To run the customer interface please follow these steps:
 
-- git clone git@github.com:rebake44/bamazon.git
+- git clone [https://github.com/rebake44/bamazon.git] (https://github.com/rebake44/bamazon.git)
 - cd bamazon
 - npm install
 - node bamazonCustomer.js
@@ -32,4 +32,4 @@ To run the customer interface please follow these steps:
 
 You may download and watch the demo of the Bamazon customer interface using the link below.
 
-[Bamazon Demo](youtube link here)
+[Bamazon Demo](https://youtu.be/IQywO1yP208)
